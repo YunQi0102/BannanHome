@@ -2,8 +2,13 @@ h1 {
     text-align: center;
     background-color: #0047b0;
     color: aliceblue;
+    width: 1185px;
+}
+
+h3 {
+    width: 1185px;
 }
 
 .bannanline {
-    width:98%;
+    width: 1185px;
 }
